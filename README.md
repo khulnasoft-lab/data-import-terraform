@@ -25,7 +25,7 @@ Create a terraform variables file to be used for your environment (e.g.
 aws_region = "us-east-2"
 
 tags = {
-  Team = "CISA Development Team"
+  Team = "KHULNASOFT Development Team"
   Application = "Findings Data Import"
   Workspace = "production"
 }
