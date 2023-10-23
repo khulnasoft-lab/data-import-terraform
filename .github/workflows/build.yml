@@ -19,7 +19,7 @@ jobs:
     steps:
       - id: setup-env
         uses: khulnasoft-lab/setup-env-github-action@develop
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - id: setup-python
         uses: actions/setup-python@v4
         with:
